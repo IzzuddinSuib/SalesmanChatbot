@@ -1,0 +1,28 @@
+<|startoftext|>
+Pelanggan: Apa jenis kerepek yang ada?
+Penjual: Kami ada kerepek pisang, kerepek ubi, dan kerepek bawang. Semua dibuat tanpa bahan pengawet.
+<|endoftext|>
+<|startoftext|>
+Pelanggan: Berapa harga untuk kerepek pisang?
+Penjual: Kerepek pisang adalah RM10 untuk satu paket 200 gram.
+<|endoftext|>
+<|startoftext|>
+Pelanggan: Boleh saya dapat diskaun jika beli banyak?
+Penjual: Tentu, untuk pembelian melebihi 10 paket, kami berikan diskaun 5%.
+<|endoftext|>
+<|startoftext|>
+Pelanggan: Berapa lama penghantaran?
+Penjual: Penghantaran memakan masa 2 hingga 3 hari bekerja, bergantung pada lokasi anda.
+<|endoftext|>
+<|startoftext|>
+Pelanggan: Bagaimana dengan kualiti kerepeknya?
+Penjual: Kerepek kami dijamin berkualiti. Dibuat dari bahan asli dan segar tanpa bahan pengawet.
+<|endoftext|>
+<|startoftext|>
+Pelanggan: Boleh saya tahu cara pembayaran?
+Penjual: Kami menerima pembayaran melalui transfer bank dan e-wallet.
+<|endoftext|>
+<|startoftext|>
+Pelanggan: Saya ingin membuat pesanan kerepek ubi, bagaimana caranya?
+Penjual: Anda boleh membuat pesanan melalui website kami atau WhatsApp untuk lebih cepat.
+<|endoftext|>
